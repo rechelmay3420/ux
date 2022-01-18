@@ -1,1 +1,7 @@
-# ux
+# What is UX?
+
+User experience (UX) describes an individual's communications with an item, application, or running systems. UX advanced as a result of the renovations to UI. The term customer experience was first coined by Don Norman as "Customer experience incorporates all facets of the end-user's interaction with the company, its solutions, and its products". UX style is the procedure of investigating, developing, as well as improving all elements of individual interaction with a firm's item to satisfy its individuals.
+
+[UX design](https://www.eleken.co/blog-posts/ux-flow-and-its-importance-for-the-design-process) adds to a product that offers a reliable customer experience. To comprehend what makes an experience a good one, Peter Moreville developed a wonderful aesthetic to highlight what goes into reliable UX layout.
+
+The 'Usability Honeycomb' has actually come to be the structure for ideal methods for UX professionals to help lead their initiatives throughout numerous touchpoints with users. Designing a UX indicates defining the way a product operates and exactly how it fulfills a user's requirements. An excellent UX makes internet site navigation basic even for first time customers. UX layout takes place throughout the advancement stage and also focuses on satisfying a customer's experience with ease-of-use along with on boosting the quality of every interaction in between a user as well as the company.
